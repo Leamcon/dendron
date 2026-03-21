@@ -1,13 +1,13 @@
 [build-system]
 requires = ["setuptools>=64"]
-build-backend = "setuptools.backends._legacy:_Backend"
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "dendron"
 version = "0.1.0"
 description = "A .gitignore-aware directory tree printer"
 requires-python = ">=3.9"
-license = "MIT"
+license = "GPL-3.0"
 dependencies = ["pathspec>=0.11"]
 
 [project.scripts]
