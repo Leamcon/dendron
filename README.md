@@ -1,6 +1,6 @@
 # Dendron
 
-A `.gitignore`-aware directory tree printer for the terminal. Produces clean, human-readable Unicode tree output with sane defaults — hidden files excluded, junk directories filtered, and `.gitignore` patterns respected automatically.
+A `.gitignore` aware directory tree printer for the terminal. Produces clean, human readable Unicode tree output with sane defaults: hidden files excluded, junk directories filtered, and `.gitignore` patterns respected automatically.
 
 ## Installation
 
